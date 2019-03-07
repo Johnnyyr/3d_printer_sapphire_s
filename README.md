@@ -10,12 +10,11 @@ Hersteller:
 ShenZhen TwoTrees Technology Co.,Ltd
 
         FB: https://www.facebook.com/twotrees3Dprinter
-
- HP: http://www.t-trees.com/
+        HP: http://www.t-trees.com/
 
 Viele dieser Links habe ich aus der FB-Gruppe oder aus dem Dischord-Channel  von #rics\_3d
 
-FB-Gruppe: https://www.facebook.com/groups/573927206446790/
+        FB-Gruppe: https://www.facebook.com/groups/573927206446790/
 
 Danke euch für die vielen Tipps.
 
@@ -28,12 +27,11 @@ Einkaufsliste:
 
         - Ersatzteile die man auf Lager haben sollte:
 
-  Extruder
+         Extruder
                 Link: AliExpress - https://tinyurl.com/bmg-extruder
 
-                LV8729´Schrittmotorentreiber (Stepper)
-
-  Link: AliExpress  - https://tinyurl.com/stepper-LV8729
+        LV8729´Schrittmotorentreiber (Stepper)
+                Link: AliExpress  - https://tinyurl.com/stepper-LV8729
 
  - Tuningteile:
 
