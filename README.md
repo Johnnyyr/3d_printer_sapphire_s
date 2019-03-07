@@ -75,6 +75,8 @@ Links:
 		Lerdge
 		Parameter Settings
 			Link: Lerdge - https://tinyurl.com/y49jam4d
+		Lerdge Configuration Tool
+			Link: http://bbs.lerdge.com/configuration_tool/	
 
 		Filament Shops:
                 https://www.3djake.de
