@@ -38,6 +38,8 @@ Einkaufsliste:
                         Link: https://www.3djake.de/bondtech/extruder-bmg-rechts
                 Micro-Swiss - All Metal Hotend Kit für CR-10
                         Link: https://www.3djake.de/micro-swiss/all-metal-hotend-kit-fuer-cr-10
+		LED-Stripe
+			Link: AliExpress - LED Streifen Lerdge-X board 24 V Länge 60 cm - https://tinyurl.com/yyarhfay
 
 
 Settings:
