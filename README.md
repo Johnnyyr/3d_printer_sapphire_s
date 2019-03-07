@@ -119,3 +119,9 @@ Links:
 		https://3druck.com/
 		https://all3dp.com/de/
 
+Tipps und Tricks:
+		Fett zb Z-Spindel und Linear Lager/Schienen
+		MoS² Lithium Fett
+			Ravenol Mehrzweckfett- ebay
+			Liqui Moly LM47 - Globus ca. 4,50 €
+			Mannol EP2 - ebay
