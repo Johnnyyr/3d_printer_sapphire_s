@@ -134,3 +134,5 @@ Tipps und Tricks:
 			Ravenol Mehrzweckfett- ebay
 			Liqui Moly LM47 - Globus ca. 4,50 €
 			Mannol EP2 - ebay
+		Hotende richtig zusammenbauen
+			Link: Rics_3D ab 1:32:30 h https://youtu.be/3Jpzm1xaF30?t=5550
