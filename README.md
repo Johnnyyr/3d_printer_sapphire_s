@@ -136,3 +136,4 @@ Tipps und Tricks:
 			Mannol EP2 - ebay
 		Hotende richtig zusammenbauen
 			Link: Rics_3D ab 1:32:30 h https://youtu.be/3Jpzm1xaF30?t=5550
+			Link: Wärmeleitpaste https://www.ebay.de/itm/323355326512?ul_noapp=true
