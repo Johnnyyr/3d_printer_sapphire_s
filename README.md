@@ -27,32 +27,28 @@ Einkaufsliste:
 
         - Ersatzteile die man auf Lager haben sollte:
 
-         Extruder
+                Extruder
                 Link: AliExpress - https://tinyurl.com/bmg-extruder
 
-        LV8729´Schrittmotorentreiber (Stepper)
+                LV8729´Schrittmotorentreiber (Stepper)
                 Link: AliExpress  - https://tinyurl.com/stepper-LV8729
 
- - Tuningteile:
+        - Tuningteile:
 
-  6 x in der Größe GT2 20 innen 5
-
-  Link: AliExpress  -  https://tinyurl.com/y49n6ao5
+                6 x in der Größe GT2 20 innen 5
+                Link: AliExpress  -  https://tinyurl.com/y49n6ao5
 
                 BondTech - Extruder BMG rechts
+                https://www.3djake.de/bondtech/extruder-bmg-rechts
 
-  https://www.3djake.de/bondtech/extruder-bmg-rechts
-
-  Micro-Swiss - All Metal Hotend Kit für CR-10
-
-  https://www.3djake.de/micro-swiss/all-metal-hotend-kit-fuer-cr-10
-
+                Micro-Swiss - All Metal Hotend Kit für CR-10
+                https://www.3djake.de/micro-swiss/all-metal-hotend-kit-fuer-cr-10
 
 
 Settings:
 
         - Sammlung
-
+                Von? 
                 Link: GoogleDocs - https://tinyurl.com/sapphires-sammlung
 
 
@@ -62,17 +58,14 @@ Youtube:
         Sapphire S
 
         - Unboxing
-
-Rics\_3D -  Unboxing T-Trees Sapphire
-Link: Youtube -  https://tinyurl.com/y2um6pxs
+                Rics\_3D -  Unboxing T-Trees Sapphire
+                        Link: Youtube -  https://tinyurl.com/y2um6pxs
 
         - Aufbau
-
-(Angel Ma) TWO TREES Sapphire S printer
-Link: Youtube -  [https://tinyurl.com/y5pupzrf](https://tinyurl.com/y5pupzrf)
-
-(ruiraptor) Two Trees SAPPHIRE S (3DPrinter) - Detailed Assembly &amp; Test Prints
-Link: Youtube -  https://tinyurl.com/y38vx5v3
+                (Angel Ma) TWO TREES Sapphire S printer
+                        Link: Youtube -  [https://tinyurl.com/y5pupzrf](https://tinyurl.com/y5pupzrf)
+                (ruiraptor) Two Trees SAPPHIRE S (3DPrinter) - Detailed Assembly &amp; Test Prints
+                        Link: Youtube -  https://tinyurl.com/y38vx5v3
 
         - Review
 
