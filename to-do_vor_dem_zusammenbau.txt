@@ -1,0 +1,41 @@
+Achtung nicht vollständig, das habe ich immer mal mitgeschrieben.................
+
+To-Do vor, während und nach dem Zusammanbau: 
+
+1. Hotend einmal prüfen ob es richtig zusammen gebaut ist, am besten zerlegen und neu zusammenbauen 
+		Link: Rics_3D ab 1:32:30 h https://youtu.be/3Jpzm1xaF30?t=5550
+		Link: Wäremeleitpaste https://www.ebay.de/itm/323355326512?ul_noapp=true
+2. Reinigen und fetten der Linearwagen
+		Link: Einbauhilfe für Linearschienen TTrees Sapphire S - https://www.thingiverse.com/thing:3337702
+		Link: Video wie ihr die reinigt
+3. Am besten gleich die besseren Umlenkrollen einbauen: 
+		Link: AlieExpress:  https://tinyurl.com/y2wdxzqm 
+4. Z-Welle mit einem Lithium MoS2 Fett fetten. 
+5. eventuell Lager Tauschen https://www.kugellager-express.de/silber-serie-miniatur-flanschlager-kfl08-welle-8-mm
+.
+.
+9. ganz wichtig, Licht :-)
+		Link: LED Mount at 45° (great for Core XY)  https://www.thingiverse.com/thing:2389048
+		Link: AliExpress - LED Streifen Lerdge-X board 24 V Länge 60 cm - https://tinyurl.com/yyarhfay
+		
+		
+Firmware update (unbestätigt)
+Auf der Lerdge Website bekommt ihr die Firmware:
+	Link:  http://www.lerdge.com/down_complex.aspx?TypeId=14&Id=32&Fid=n14:14:14 
+
+ACHTUNG: Vorher die Einstellungen sichern, abschreiben, merken.
+
+Mit dem Tool von Lerdge könnt ihr euch eure config erstellen:
+	Link: http://bbs.lerdge.com/configuration_tool/
+
+
+Safety addons for the TTrees Sapphire
+
+Sicherheit geht vor, Ric hat das für uns schon mal getestet wie es ist mit diesem "STROM" :-) Das euch das nicht passiert:
+Drucken und einbauen https://www.thingiverse.com/thing:3293409
+
+Nur mal soooooooooooo
+
+du must am board das Motrorkabel vom X und Y Motor tauschen. Dann in der Firmware, also über das Display, die X un Y Motoren invertieren. Also die Drehrichtung. Endstop position: Z: MIN X: MIN Y: MAX
+
+PETG von Goedis auf dem Sapphire 230° am Hotend, 65° am Bett mit der Magnetdauerdruckplatte. Profil ist mein Standard für PLA, lediglich Hotendtemperatur auf 230° gesetzt.

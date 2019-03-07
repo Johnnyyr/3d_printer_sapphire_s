@@ -1,0 +1,16 @@
+Daten:
+Brand: Two trees
+Type: Complete machine
+Frame Material: Aluminum Alloy
+Platform Board: aluminum alloy
+die diameter: 0.4 mm
+thickness: 0,05-0,3mm
+LCD screen: Yes
+Print speed: 30 - 180 mm / s
+accompanying material: Abs, PA Wood, PETG, PLA
+file format: G code
+XY-axis positioning accuracy: 0,011mm
+voltage: 110V / 220V
+Compatible system: Windows 
+
+
