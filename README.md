@@ -41,7 +41,7 @@ Einkaufsliste:
 		LED-Stripe
 			Link: AliExpress - LED Streifen Lerdge-X board 24 V Länge 60 cm - https://tinyurl.com/yyarhfay
 
-Druckbare Teile 
+	Druckbare Teile 
 		Kabelabdeckung Netzteil (danke Rics_3D)
 		Link: Safety addons for the TTrees Sapphire https://www.thingiverse.com/thing:3293409
 		Halte für den LED-Stripe
