@@ -18,9 +18,10 @@ Viele dieser Links habe ich aus der FB-Gruppe oder aus dem Discord-Channel  von 
 Danke euch für die vielen Tipps.
 
 Einkaufsliste:
-        Drucker:
-                Two Trees - Sapphire S
-                        Link: AliExpress - https://tinyurl.com/twotrees-sapphires
+
+	Drucker:
+		Two Trees - Sapphire S
+			Link: AliExpress - https://tinyurl.com/twotrees-sapphires
 
         Ersatzteile die man auf Lager haben sollte:
                 Extruder
@@ -66,22 +67,22 @@ Youtube:
 
 			Kanäle rund ums 3D-Drucken
 				Rics\_3D - https://tinyurl.com/rics-3d
-                3D-Druck ANDI - https://tinyurl.com/3d-druck-andi
-                China-Gadgets - https://tinyurl.com/China-Gadgets-de
+               			3D-Druck ANDI - https://tinyurl.com/3d-druck-andi
+                		China-Gadgets - https://tinyurl.com/China-Gadgets-de
 
 
 Links:
-			Lerdge
-				Parameter Settings
-					Link: Lerdge - https://tinyurl.com/y49jam4d
 
-			Filament Shops:
+		Lerdge
+		Parameter Settings
+			Link: Lerdge - https://tinyurl.com/y49jam4d
+
+		Filament Shops:
                 https://www.3djake.de
                 https://shop.goedis.de - Goedis Filament Code (10%): Rics3D
                 https://redline-filament.com - Redline Filament Code (5%): Rics\_3D
 
-			3D models, designs, and ideas:
-
+		3D models, designs, and ideas:
                 https://www.cgtrader.com/
                 https://grabcad.com/
                 https://www.thingiverse.com
@@ -92,19 +93,17 @@ Links:
                 https://repables.com/
                 https://www.shapeways.com/
 
-			Slicer Software
-
+		Slicer Software
                 Simplify3D - https://www.simplify3d.com/
                 Cura - https://ultimaker.com/en/products/ultimaker-cura-software
                 Slic3r - http://slic3r.org/
                 Slic3r Prusa Edition - https://github.com/prusa3d/Slic3r/releases
                 Craftware - https://craftbot.com/craftware
-				Cura - https://ultimaker.com/en/products/ultimaker-cura-software
-				Pathio - https://pathio.xyz/
+		Cura - https://ultimaker.com/en/products/ultimaker-cura-software
+		Pathio - https://pathio.xyz/
                 Netfabb - https://www.autodesk.de/products/netfabb/free-trial
 
-			CAD Software
-
+		CAD Software
                 Tinker CAD - https://www.tinkercad.com/
                 Fusion 360 - https://www.autodesk.de/products/fusion-360/students-teachers-educators
                 Blender - https://www.blender.org/download/
@@ -112,11 +111,11 @@ Links:
                 Sculptris - http://pixologic.com/sculptris/requirements/
                 FreeCAD - https://www.freecadweb.org/
 
-			Tools
+		Tools
                 OctoPrint - https://octoprint.org/ (3D-Druckmanger)
-				ViewSTL - https://www.viewstl.com/ (online viewer für STL Dateien)
+		ViewSTL - https://www.viewstl.com/ (online viewer für STL Dateien)
 
-			Allgemeine Webseiten
-				https://3druck.com/
-				https://all3dp.com/de/
+		Allgemeine Webseiten
+		https://3druck.com/
+		https://all3dp.com/de/
 
