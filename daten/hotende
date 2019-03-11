@@ -1,0 +1,23 @@
+Hotend:
+
+    Das im Two Trees Sapphire S verbaute Hotend dürfte identisch sein
+    mit zum Beispiel dem des Tevo Tornado.
+    Kühllüfter: Axial Lüfter, 30 x 30 x 10 mm, 24 Volt
+    Düse: 0.4 mm Messing, Gewind M6, Typ MK8
+    (wie z.B. auch Creality Ender, CR-10)
+    Heatbreak: Typ Bore 4.1, Edelstahl, M6, Durchmesser 7 mm, Bohrung 4 mm durchgehend,
+    Gesamtlänge 24 mm.
+    Heizblock: Aluminium 20 x 20 x 10 mm
+    (wie z.B. auch Creality Ender, CR-10. Somit passen die Creality Silikon Hotend Isolierungen.)
+    Heizpatrone: 24 Volt, 40 Watt, 13,40 Ohm
+    - Leistungsaufnahme:
+    rechnerisch: 1,79 A bei 24 V = 42,9 W
+    gemessen: 1,68 A bei 23,52 V = 39,5 W
+    Temperatur-Sensor: 100k Thermistor in Glasperle
+
+Bauteilkühlung:
+
+    2x Radial Lüfter, 40 x 40 x 10 mm, 24 Volt.
+    (Abmessungen identisch mit Tevo Tornado, Creality Ender 3)
+    Luftaustrittsdüse: Spritzguss Kunstoffteil.
+    (Form identisch mit Tevo Tornado, Creality Ender / CR-10)
