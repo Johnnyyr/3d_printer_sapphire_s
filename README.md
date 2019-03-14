@@ -10,10 +10,11 @@ ShenZhen TwoTrees Technology Co.,Ltd
         FB: https://www.facebook.com/twotrees3Dprinter
         HP: http://www.t-trees.com/
 
-Viele dieser Links habe ich aus der FB-Gruppe oder aus dem Discord-Channel.
+Viele dieser Links habe ich aus der FB-Gruppe, Forum oder aus dem Discord-Channel.
 
         FB-Gruppe: https://www.facebook.com/groups/573927206446790/
         Disord: https://discord.gg/xwxrDNw
+	Forum: https://drucktipps3d.de/forum/topic/two-trees-sapphire-s-corexy/
 
 Danke euch für die vielen Tipps.
 
