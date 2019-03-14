@@ -73,6 +73,7 @@ Youtube:
 
 		Kanäle rund ums 3D-Drucken
 		Rics\_3D - https://tinyurl.com/rics-3d
+		Philipp's - https://www.youtube.com/channel/UCkXj9_80x1PquHxWZtT-6Hg
                	3D-Druck ANDI - https://tinyurl.com/3d-druck-andi
                 China-Gadgets - https://tinyurl.com/China-Gadgets-de
 		3D PRINT AND MORE - https://tinyurl.com/yy6n3ykr
