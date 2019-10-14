@@ -41,7 +41,7 @@ Einkaufsliste:
                         Link: https://www.3djake.de/micro-swiss/all-metal-hotend-kit-fuer-cr-10
 		LED-Stripe
 			Link: AliExpress - LED Streifen Lerdge-X board 24 V Länge 60 cm - https://tinyurl.com/yyarhfay
-
+		Lüfter: SUNON 60/60/15 24V für Netzteil, und 40/40/20  24V für Mainboard
 	Druckbare Teile 
 		Kabelabdeckung Netzteil (danke Rics_3D)
 		Link: Safety addons for the TTrees Sapphire https://www.thingiverse.com/thing:3293409
