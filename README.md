@@ -3,7 +3,7 @@ Link und Daten Sammlung zum Thema 3D-Druck
 
 -----------------------------------------------------------------------------------------
 
-Einkaufsliste Ender 3 oder Ender 3 PRO (mit * gekennzeichnete Links sind Affility Links, dafür bekomme ich ein paar Cent und für euch ändert sich nichts.) 
+Einkaufsliste:
 
 	Drucker:
 		Ender 3 Pro
@@ -15,9 +15,10 @@ Einkaufsliste Ender 3 oder Ender 3 PRO (mit * gekennzeichnete Links sind Affilit
                 
 
 
-
 Die mit * gekennzeichnete Links sind Affility Links, dafür bekomme ich ein paar Cent und für euch ändert sich nicht. 		
+Umbauten:
 
+Hier findet ihr meine Sammlung für Ender 3/Pro Anbauteile. https://www.thingiverse.com/j0hnnyr/collections/ender
 
 Settings:
 
