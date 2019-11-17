@@ -1,4 +1,4 @@
-# 3d_printer_sapphire_s
+# 3d_printer
 Link und Daten Sammlung zum 3D-Drucker Two Trees Sapphire S
 
 Sapphire S von TwoTrees
