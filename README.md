@@ -10,12 +10,12 @@ Einkaufsliste:
 			Link: amazon - https://amzn.to/2prvlCB *
 
         Tuningteile:
-                Silent Motherboard V1.1.5 mit TMC2208 Treiber für Ender-3/Pro/Ender-5/CR-10
-                        Link: Amazon  -  https://amzn.to/32S6dTe *
+        Mainboard: Silent Motherboard V1.1.5 mit TMC2208 Treiber für Ender-3/Pro/Ender-5/CR-10
+                   Link: Amazon  -  https://amzn.to/32S6dTe *
                 
-	Lüfter: Noctua NF-A4x10 FLX, Leiser Premium-Lüfter, 3-Pin (40x10mm, Braun)  https://amzn.to/37eHE6g
+	Lüfter: Noctua NF-A4x10 FLX, Leiser Premium-Lüfter, 3-Pin (40x10mm, Braun)  https://amzn.to/37eHE6g *
 	
-	Display: Touchscreen-Display - MKS SKR https://amzn.to/2CNPPbN
+	Display: Touchscreen-Display - MKS SKR https://amzn.to/2CNPPbN *
 
 Die mit * gekennzeichnete Links sind Affility Links, dafür bekomme ich ein paar Cent und für euch ändert sich nicht. 		
 Umbauten:
